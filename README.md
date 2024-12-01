@@ -5,13 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **dinithi2207@gmail.com**
 
-- ⚡ Fun fact **I’m an aspiring tech wizard who dreams of testing systems that even cats would approve of!**
 
-<h3 align="center">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dinithi dhanushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinithi dhanushika" height="30" width="40" /></a>
 <a href="https://fb.com/dinithi dhanushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinithi dhanushika" height="30" width="40" /></a>
@@ -24,18 +22,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andy0501-9git&" alt="andy0501-9git" /></p>
 
-<h1 align="center">Hi 👋, Just called me Andy! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, Just call me Andy! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **postman for biginner caurse**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: **dinithi2207@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Fun fact: **I’m an aspiring tech wizard who dreams of testing systems that even cats would approve of!**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
