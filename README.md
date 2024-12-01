@@ -1,8 +1,4 @@
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andy0501-9git&show_icons=true&locale=en" alt="andy0501-9git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andy0501-9git&" alt="andy0501-9git" /></p>
-
 <h1 align="center">Hi 👋, Just call me Andy! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">CS Undergraduate | Uva Wellassa University</h3>
 
@@ -29,13 +25,14 @@
 </p>
 
 <p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy0501-9git&theme=react&layout=compact" />
+</p>
+
+<p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Andy0501-9git&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy0501-9git&theme=react&layout=compact" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andy0501-9git&show_icons=true&locale=en" alt="andy0501-9git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andy0501-9git&" alt="andy0501-9git" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andy0501-9git&show_icons=true&locale=en&theme=dark" alt="andy0501-9git" /></p>
 
