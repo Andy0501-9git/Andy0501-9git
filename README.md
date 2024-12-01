@@ -28,15 +28,10 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy0501-9git&theme=react&layout=compact" />
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Andy0501-9git&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy0501-9git&theme=react&layout=compact" />
-</p>
 
+<p align= "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andy0501-9git&show_icons=true&locale=en&theme=dark" alt="andy0501-9git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andy0501-9git&show_icons=true&locale=en&theme=dark" alt="andy0501-9git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andy0501-9git&theme=dark" alt="andy0501-9git" /></p>
+<p align= "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andy0501-9git&theme=dark" alt="andy0501-9git" /></p>
 
 ------
 
